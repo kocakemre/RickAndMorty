@@ -7,8 +7,8 @@
 
 import UIKit
 
+/// Controller to show and search Charaters
 final class RMCharacterViewController: UIViewController {
-    
     
     // MARK: - Life Cycles
     
